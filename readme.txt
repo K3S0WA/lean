@@ -1,1 +1,2 @@
-I'll be learning the basics of Lean here
+I'll be learning the basics of Lean here.
+
